@@ -4,7 +4,7 @@
 [![Module](https://img.shields.io/badge/module-pygame-brightgreen.svg?style=flat)](http://www.pygame.org/news.html)
 [![Module](https://img.shields.io/badge/module-tkinter-brightgreen.svg?style=flat)](https://docs.python.org/3/library/tk.html)
 [![Module](https://img.shields.io/badge/module-mutagen-brightgreen.svg?style=flat)](https://mutagen.readthedocs.io/en/latest/)
-[![Release](https://img.shields.io/badge/release-v0.1.0-orange.svg?style=flat)]
+[![Release](https://img.shields.io/badge/release-v0.1.0-orange.svg?style=flat)](https://github.com/osamasrour/Music_player_gui)
 
 ## About
 An application used to play music that uses a GUI (pygame, tkinter, mutagen)
